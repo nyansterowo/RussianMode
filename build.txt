@@ -1,0 +1,3 @@
+displayName = RussianMode
+author = perssBest
+version = 0.1
